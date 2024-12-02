@@ -25,8 +25,8 @@ const sora = Sora({
 });
 
 export const metadata = {
-  title: "Ranzom Softnet",
-  description: "Software Company",
+  title: "Zetel",
+  description: "Epos & Payement Company",
 };
 
 export default function RootLayout({ children }) {
